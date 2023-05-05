@@ -10,3 +10,7 @@ Pasos para ejecutar proyecto en produccion
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta  ```dist``` y desplegarla
+
+Link a la web
+
+https://javiercisneros.github.io/blackjack/
